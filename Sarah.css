@@ -1,0 +1,25 @@
+body {background-color: ##e9967b}
+h1 {
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+li.italic {
+    font-style: italic;
+    color: #000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.roos {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4d4d4d;
+  }
+.bloem {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4d4d4d;
+}
